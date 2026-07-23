@@ -1,13 +1,7 @@
 # Hi there, I'm Mohamad Rafly Andreanto 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;RAG+%26+LLM+Systems+Builder;Backend+Engineer+for+AI+Products;Turning+Models+Into+Real+Products" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="mailto:email-anda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/linkedin-anda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Yutaa19&style=for-the-badge&color=2496ED" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=AI+%26+Backend+Engineer;RAG+%26+LLM+Systems+Builder;" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -26,9 +20,9 @@ Lulusan **Coding Camp Foundation (Dicoding)**, aktif mendalami **LLM architectur
 
 | Area | Detail |
 |---|---|
-| 🧠 **AI/ML Architecture** | NLP, Computer Vision, Time-Series, RAG pipeline |
+| 🧠 **AI/ML Architecture** | NLP, LLM, Backend FastAPi, RAG pipeline |
 | ⚙️ **Backend Engineering** | RESTful API modular, aman, dan *scalable* |
-| 🔗 **AI Productization** | Menghubungkan model ML ke sistem web berskala produksi |
+| 🔗 **AI Productization** | Menghubungkan model AI ke sistem web development |
 | 🗄️ **Vector & Data Infra** | Qdrant, PostgreSQL, Redis untuk kebutuhan *semantic search* |
 
 ---
@@ -75,11 +69,11 @@ Antarmuka web modern dan responsif untuk program studi Sains Data.
 `Next.js` `React` `Web Development`
 
 ### 👁️ Computer Vision — Image Classification
-Arsitektur *Deep Learning* dengan **TensorFlow** untuk klasifikasi pola visual dengan akurasi tinggi.
+Arsitektur *Deep Learning* dengan **TensorFlow** untuk klasifikasi gambar kucing dan anjing dengan akurasi tinggi.
 `TensorFlow` `Deep Learning` `Computer Vision`
 
 ### 📊 Sentiment Analysis — Aplikasi Bank DBS
-Ekstraksi dan analisis ulasan pengguna (*positive/negative*) menggunakan teknik **NLP** untuk menghasilkan *insight* bisnis.
+Ekstraksi dan analisis ulasan pengguna (*positive, netral, negative*) menggunakan teknik **NLP** untuk menghasilkan *insight* bisnis.
 `NLP` `Sentiment Analysis` `Data Science`
 
 ### ⚙️ Backend Notes Web Application (RESTful API)
